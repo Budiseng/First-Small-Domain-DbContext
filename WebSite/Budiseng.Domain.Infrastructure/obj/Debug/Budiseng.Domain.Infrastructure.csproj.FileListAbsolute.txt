@@ -2,3 +2,8 @@ F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.Domain
 F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.Domain.Infrastructure\bin\Debug\Budiseng.Domain.Infrastructure.pdb
 F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.Domain.Infrastructure\obj\Debug\Budiseng.Domain.Infrastructure.dll
 F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.Domain.Infrastructure\obj\Debug\Budiseng.Domain.Infrastructure.pdb
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain.Infrastructure\bin\Debug\Budiseng.Domain.Infrastructure.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain.Infrastructure\bin\Debug\Budiseng.Domain.Infrastructure.pdb
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain.Infrastructure\obj\Debug\Budiseng.Domain.Infrastructure.csprojResolveAssemblyReference.cache
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain.Infrastructure\obj\Debug\Budiseng.Domain.Infrastructure.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain.Infrastructure\obj\Debug\Budiseng.Domain.Infrastructure.pdb

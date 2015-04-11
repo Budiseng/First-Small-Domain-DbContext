@@ -3,3 +3,8 @@ F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.FirstD
 F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.FirstDemo.Domain\obj\Debug\Budiseng.Domain.csprojResolveAssemblyReference.cache
 F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.FirstDemo.Domain\obj\Debug\Budiseng.Domain.dll
 F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.FirstDemo.Domain\obj\Debug\Budiseng.Domain.pdb
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain\bin\Debug\Budiseng.Domain.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain\bin\Debug\Budiseng.Domain.pdb
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain\obj\Debug\Budiseng.Domain.csprojResolveAssemblyReference.cache
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain\obj\Debug\Budiseng.Domain.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain\obj\Debug\Budiseng.Domain.pdb

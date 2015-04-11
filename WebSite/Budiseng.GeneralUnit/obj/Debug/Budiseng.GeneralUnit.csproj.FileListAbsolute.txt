@@ -2,3 +2,8 @@ F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.Genera
 F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.GeneralUnit\bin\Debug\Budiseng.GeneralUnit.pdb
 F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.GeneralUnit\obj\Debug\Budiseng.GeneralUnit.dll
 F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.GeneralUnit\obj\Debug\Budiseng.GeneralUnit.pdb
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.GeneralUnit\bin\Debug\Budiseng.GeneralUnit.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.GeneralUnit\bin\Debug\Budiseng.GeneralUnit.pdb
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.GeneralUnit\obj\Debug\Budiseng.GeneralUnit.csprojResolveAssemblyReference.cache
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.GeneralUnit\obj\Debug\Budiseng.GeneralUnit.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.GeneralUnit\obj\Debug\Budiseng.GeneralUnit.pdb

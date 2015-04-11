@@ -1,0 +1,4 @@
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.Domain.Repository\bin\Debug\Budiseng.Domain.Repository.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.Domain.Repository\bin\Debug\Budiseng.Domain.Repository.pdb
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.Domain.Repository\obj\Debug\Budiseng.Domain.Repository.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.Domain.Repository\obj\Debug\Budiseng.Domain.Repository.pdb

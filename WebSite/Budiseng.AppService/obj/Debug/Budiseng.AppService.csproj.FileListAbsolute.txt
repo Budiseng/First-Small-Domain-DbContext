@@ -1,0 +1,4 @@
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.AppService\bin\Debug\Budiseng.AppService.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.AppService\bin\Debug\Budiseng.AppService.pdb
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.AppService\obj\Debug\Budiseng.AppService.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.AppService\obj\Debug\Budiseng.AppService.pdb

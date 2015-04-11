@@ -1,0 +1,5 @@
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.FirstDemo.DTO\bin\Debug\Budiseng.DTO.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.FirstDemo.DTO\bin\Debug\Budiseng.DTO.pdb
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.FirstDemo.DTO\obj\Debug\Budiseng.DTO.csprojResolveAssemblyReference.cache
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.FirstDemo.DTO\obj\Debug\Budiseng.DTO.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.FirstDemo.DTO\obj\Debug\Budiseng.DTO.pdb

@@ -1,0 +1,4 @@
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.WebApi\bin\Debug\Budiseng.WebApi.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.WebApi\bin\Debug\Budiseng.WebApi.pdb
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.WebApi\obj\Debug\Budiseng.WebApi.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\Budiseng.FirstDemo\Budiseng.WebApi\obj\Debug\Budiseng.WebApi.pdb

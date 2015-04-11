@@ -1,0 +1,7 @@
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Dapper\bin\Debug\Budiseng.Dapper.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Dapper\bin\Debug\Budiseng.Dapper.pdb
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Dapper\bin\Debug\Dapper.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Dapper\bin\Debug\Dapper.pdb
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Dapper\bin\Debug\Dapper.xml
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Dapper\obj\Debug\Budiseng.Dapper.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Dapper\obj\Debug\Budiseng.Dapper.pdb

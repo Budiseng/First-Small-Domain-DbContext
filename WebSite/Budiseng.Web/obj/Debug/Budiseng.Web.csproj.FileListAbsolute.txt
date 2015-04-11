@@ -143,6 +143,5 @@ F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Web\bin\zh-Hans\M
 F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Web\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
 F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Web\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
 F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Web\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
-F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Web\obj\Debug\Budiseng.Web.csprojResolveAssemblyReference.cache
 F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Web\obj\Debug\Budiseng.Web.dll
 F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Web\obj\Debug\Budiseng.Web.pdb

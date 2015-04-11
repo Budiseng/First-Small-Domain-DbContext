@@ -31,6 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -39,9 +40,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="DbContext\IRepositoryContext.cs" />
+    <Compile Include="DbContext\RepositoryContext.cs" />
+    <Compile Include="Entites\DemoUser.cs" />
+    <Compile Include="IRepositorys\IRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Budiseng.Dapper\Budiseng.Dapper.csproj">
+      <Project>{a710a1bc-dd42-41eb-83ac-d30e89c51f76}</Project>
+      <Name>Budiseng.Dapper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Budiseng.Domain.Infrastructure\Budiseng.Domain.Infrastructure.csproj">
+      <Project>{514ADA7D-170E-4D03-890F-57DFF72A0C25}</Project>
+      <Name>Budiseng.Domain.Infrastructure</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

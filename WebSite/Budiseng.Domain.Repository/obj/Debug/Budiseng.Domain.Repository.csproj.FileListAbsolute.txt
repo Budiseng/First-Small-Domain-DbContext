@@ -7,3 +7,12 @@ F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain.Repository
 F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain.Repository\obj\Debug\Budiseng.Domain.Repository.csprojResolveAssemblyReference.cache
 F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain.Repository\obj\Debug\Budiseng.Domain.Repository.dll
 F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain.Repository\obj\Debug\Budiseng.Domain.Repository.pdb
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain.Repository\bin\Debug\Budiseng.Dapper.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain.Repository\bin\Debug\Budiseng.Domain.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain.Repository\bin\Debug\Dapper.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain.Repository\bin\Debug\Budiseng.Domain.Infrastructure.dll
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain.Repository\bin\Debug\Budiseng.Dapper.pdb
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain.Repository\bin\Debug\Budiseng.Domain.pdb
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain.Repository\bin\Debug\Dapper.pdb
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain.Repository\bin\Debug\Dapper.xml
+F:\budaiseng\First-Small-Demo-for-Asp.Net-Mvc\WebSite\Budiseng.Domain.Repository\bin\Debug\Budiseng.Domain.Infrastructure.pdb

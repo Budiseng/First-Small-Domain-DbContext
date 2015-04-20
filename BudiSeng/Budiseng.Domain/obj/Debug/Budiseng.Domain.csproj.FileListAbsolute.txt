@@ -1,0 +1,12 @@
+E:\BudiSeng\Budiseng.Domain\bin\Debug\Budiseng.Domain.dll
+E:\BudiSeng\Budiseng.Domain\bin\Debug\Budiseng.Domain.pdb
+E:\BudiSeng\Budiseng.Domain\bin\Debug\Budiseng.Dapper.dll
+E:\BudiSeng\Budiseng.Domain\bin\Debug\Dapper.dll
+E:\BudiSeng\Budiseng.Domain\bin\Debug\Budiseng.Dapper.pdb
+E:\BudiSeng\Budiseng.Domain\bin\Debug\Dapper.pdb
+E:\BudiSeng\Budiseng.Domain\bin\Debug\Dapper.xml
+E:\BudiSeng\Budiseng.Domain\obj\Debug\Budiseng.Domain.csprojResolveAssemblyReference.cache
+E:\BudiSeng\Budiseng.Domain\obj\Debug\Budiseng.Domain.dll
+E:\BudiSeng\Budiseng.Domain\obj\Debug\Budiseng.Domain.pdb
+E:\BudiSeng\Budiseng.Domain\bin\Debug\Budiseng.Domain.Infrastructure.dll
+E:\BudiSeng\Budiseng.Domain\bin\Debug\Budiseng.Domain.Infrastructure.pdb

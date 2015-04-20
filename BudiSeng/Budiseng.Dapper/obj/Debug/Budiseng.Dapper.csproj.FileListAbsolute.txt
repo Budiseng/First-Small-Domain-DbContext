@@ -1,0 +1,7 @@
+E:\BudiSeng\Budiseng.Dapper\bin\Debug\Budiseng.Dapper.dll
+E:\BudiSeng\Budiseng.Dapper\bin\Debug\Budiseng.Dapper.pdb
+E:\BudiSeng\Budiseng.Dapper\bin\Debug\Dapper.dll
+E:\BudiSeng\Budiseng.Dapper\bin\Debug\Dapper.pdb
+E:\BudiSeng\Budiseng.Dapper\bin\Debug\Dapper.xml
+E:\BudiSeng\Budiseng.Dapper\obj\Debug\Budiseng.Dapper.dll
+E:\BudiSeng\Budiseng.Dapper\obj\Debug\Budiseng.Dapper.pdb

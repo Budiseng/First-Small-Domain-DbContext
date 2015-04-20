@@ -1,0 +1,4 @@
+E:\BudiSeng\Budiseng.Domain.Infrastructure\bin\Debug\Budiseng.Domain.Infrastructure.dll
+E:\BudiSeng\Budiseng.Domain.Infrastructure\bin\Debug\Budiseng.Domain.Infrastructure.pdb
+E:\BudiSeng\Budiseng.Domain.Infrastructure\obj\Debug\Budiseng.Domain.Infrastructure.dll
+E:\BudiSeng\Budiseng.Domain.Infrastructure\obj\Debug\Budiseng.Domain.Infrastructure.pdb
